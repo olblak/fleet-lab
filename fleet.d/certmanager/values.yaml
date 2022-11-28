@@ -1,0 +1,6 @@
+# automatically install and manage the CRDs as part of your Helm release
+installCRDs: true
+prometheus:
+  enabled: false
+webhook:
+  timeoutSeconds:4
