@@ -24,7 +24,7 @@ helm:
   releaseName: traefik
   # The version of the chart or semver constraint of the chart to find. If a constraint
   # is specified it is evaluated each time git changes.
-  version: 20.5.3
+  version: 20.8.0
   # Any values that should be placed in the `values.yaml` and passed to helm during
   # install.
   #values:
